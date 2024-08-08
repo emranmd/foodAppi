@@ -138,6 +138,7 @@
         height: 100%;
         z-index: 1000;
         transform: translate(100%, 0px);
+        display: flex !important;
     }
     .profile_section.active {
         transform: translate(0%, 0px);
@@ -395,6 +396,7 @@
         height: 100%;
         z-index: 1000;
         transform: translate(100%, 0px);
+        display: flex !important;
     }
     .profile_section.active {
         transform: translate(0%, 0px);

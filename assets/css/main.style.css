@@ -2190,5 +2190,8 @@ hr.border_bottom {
 .our_branch_info {
     margin-bottom: 2rem;
 }
+.profile_section {
+    display: none;
+}
 
 /* ~~~~~~~~~~~cookiesAreaEnd~~~~~~~~~ */
